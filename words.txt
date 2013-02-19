@@ -8,19 +8,15 @@ I is pronounced “ee”
 Double vowels mean the sound is longer and lower. This is represented by underlining the vowel when writing in the actual alphabet, and by double vowels when writing phonetically.
 O's are never pronounced “ɒ” as in “dog” or “john”.
 
------------------------------------------
-
-Greetings
-
+Greetings:
 Hello-roʒu
 Goodbye-daka
 
-Time
-
+Time:
 Day-valasi
 Night-krovoda
 Long(time)-gaŋa
 Short(time)-lige
 
-Things
+Things:
 Tea-saaŋma
