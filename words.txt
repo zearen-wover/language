@@ -1,4 +1,4 @@
-﻿Phonological Constraints
+Phonological Constraints
 (C)(r)(V)V(C)(V)(C)
 
 Prerequesites
@@ -13,8 +13,8 @@ Hello-roʒu
 Goodbye-daka
 
 Time:
-Day-valasi
-Night-krovoda
+Day-vala
+Night-voda
 Long(time)-gaŋa
 Short(time)-lige
 
