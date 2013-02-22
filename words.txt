@@ -1,5 +1,5 @@
 Phonological Constraints
-(C)(r)(V)V(C)(V)(C)
+(C)(r)(V)V(C)(V)
 
 Prerequesites
 
@@ -12,11 +12,20 @@ Greetings:
 Hello-roʒu
 Goodbye-daka
 
+Welcome-roʒusaaŋma (hello+tea)
+Safe travels (opposite of Welcome)-dakalima (goodbye+safe)
+
 Time:
 Day-vala
 Night-voda
-Long(time)-gaŋa
-Short(time)-lige
 
 Things:
 Tea-saaŋma
+Pen-kisuga
+Paper-savati
+
+Adjectives:
+Safe-lima
+Unsafe/Dangerous-duvuga
+Easy-gami
+Hard/difficult-tokuuŋe
