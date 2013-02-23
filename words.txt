@@ -35,3 +35,5 @@ Safe-lima
 Unsafe/Dangerous-duvuga
 Easy-gami
 Hard/difficult-tokuuŋe
+Good-maga
+Bad-sikuvo
