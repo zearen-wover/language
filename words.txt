@@ -1,43 +1,44 @@
-Phonological Constraints
-(C)(r)(V)V(C)V(V)
+hello - roʐu
+goodbye - daga
+welcome - roʐusaaŋma (hello + tea)
 
-Prerequesites
+I - ku
+You - ki
+He/she - ke
+We - du
+y'all - di
+they - de
 
-G's are always hard
-I is pronounced “ee”
-Double vowels mean the sound is longer and lower. This is represented by underlining the vowel when writing in the actual alphabet, and by double vowels when writing phonetically.
-O's are never pronounced “ɒ” as in “dog” or “john”.
+the - e
+a - a
+and - kro
+to - vol
 
-Basics:
-Hello-roʐu
-Goodbye-daka
-Yes-seŋ
-No-geʐ
+future - ŋuri
+past - goru
+tomorrow - kido
+yesterday - leʐaŋa
 
-Welcome-
-Safe travels-
+day - vala
+night - voda
+dawn - dalama
+dusk - druuθe
+morning - sama
+noon - malaθi
+afternoon - mugu
+evening - dama
+gray hour - regaʐa
+early morning - ʐusu
 
-Time:
-Day-
-Night-
-Morning-sama
-Noon-
-Evening-
-Dusk-druuθe
-Midnight-roduk
-Twilight-talaθi
+safe - kiva
+dangerous - drookma
 
-Things:
-Nature-sagoɸa
+tea - saaŋma
+pen - bokorima
+bed - dabaɸu
+forest - sagoɸa
 
-Tea-saaŋma
-Pen-
-Paper-
-
-Adjectives:
-Safe-
-Unsafe/Dangerous-
-Easy-
-Hard/difficult-
-Good-
-Bad-
+be - mu
+go - bala
+walk - telugu
+sleep - namabi
