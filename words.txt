@@ -1,5 +1,8 @@
-Letters:
-eaiou	ʐkdstlŋgvrmbθɸ
+Vowels:
+eaiou
+
+Consonants:
+ʐkdstlŋgvrmbθɸ
 
 Phonological constraints:
 (C)(r)V(C)(C)(V)
