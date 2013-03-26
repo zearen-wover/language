@@ -30,6 +30,9 @@ evening - dama
 gray hour - regaʐa
 early morning - ʐusu
 
+top - baka
+bottom - taka
+
 safe - kiva
 dangerous - drookma
 
@@ -42,3 +45,4 @@ be - mu
 go - bala
 walk - telugu
 sleep - namabi
+climb - kusuka
