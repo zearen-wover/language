@@ -1,10 +1,16 @@
+Letters:
+eaiou	ʐkdstlŋgvrmbθɸ
+
+Phonological constraints:
+(C)(r)V(C)(C)(V)
+
 hello - roʐu
 goodbye - daga
 welcome - roʐusaaŋma (hello + tea)
 
-I - ku
-You - ki
-He/she - ke
+I - gu
+You - gi
+He/she - ge
 We - du
 y'all - di
 they - de
@@ -17,7 +23,7 @@ to - vol
 future - ŋuri
 past - goru
 tomorrow - kido
-yesterday - leʐaŋa
+yesterday - leʐata
 
 day - vala
 night - voda
@@ -25,24 +31,24 @@ dawn - dalama
 dusk - druuθe
 morning - sama
 noon - malaθi
-afternoon - mugu
+afternoon - muguŋ
 evening - dama
 gray hour - regaʐa
 early morning - ʐusu
 
-top - baka
-bottom - taka
+top - boka
+bottom - takib
 
 safe - kiva
 dangerous - drookma
 
 tea - saaŋma
-pen - bokorima
+pen - bokid
 bed - dabaɸu
 forest - sagoɸa
 
 be - mu
-go - bala
+go - druɸ
 walk - telugu
 sleep - namabi
 climb - kusuka
