@@ -5,8 +5,8 @@ Phonological constraints:
 (C)(r)V(C)(C)(V)
 
 hello - roʐu
-goodbye - daga
-welcome - roʐusaaŋma (hello + tea)
+godbye - daga
+welcome - roʐusaŋma (hello + tea)
 
 I - gu
 You - gi
@@ -28,10 +28,10 @@ yesterday - leʐata
 day - vala
 night - voda
 dawn - dalama
-dusk - druuθe
+dusk - druθe
 morning - sama
-noon - malaθi
-afternoon - muguŋ
+non - malaθi
+afternon - muguŋ
 evening - dama
 gray hour - regaʐa
 early morning - ʐusu
@@ -40,9 +40,9 @@ top - boka
 bottom - takib
 
 safe - kiva
-dangerous - drookma
+dangerous - drokma
 
-tea - saaŋma
+tea - saŋma
 pen - bokid
 bed - dabaɸu
 forest - sagoɸa
