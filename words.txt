@@ -46,9 +46,11 @@ tea - saaŋma
 pen - bokid
 bed - dabaɸu
 forest - sagoɸa
+mountain - srukma
+nature - elbrus
 
 be - mu
 go - druɸ
 walk - telugu
 sleep - namabi
-climb - kusuka
+climb - gusaka
