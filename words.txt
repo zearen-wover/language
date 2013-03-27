@@ -8,7 +8,7 @@ Phonological constraints:
 (C)(r)V(C)(C)(V)
 
 hello - roʐu
-godbye - daga
+goodbye - daga
 welcome - roʐusaŋma (hello + tea)
 
 I - gu
@@ -33,7 +33,7 @@ night - voda
 dawn - dalama
 dusk - druθe
 morning - sama
-non - malaθi
+noon - malaθi
 afternon - muguŋ
 evening - dama
 gray hour - regaʐa
@@ -49,11 +49,11 @@ tea - saŋma
 pen - bokid
 bed - dabaɸu
 forest - sagoɸa
-mountain - srukma
+mountain - drum
 nature - elbrus
 
 be - mu
 go - druɸ
 walk - telugu
 sleep - namabi
-climb - gusaka
+climb - guska
