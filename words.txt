@@ -1,11 +1,12 @@
 Vowels:
-eaiou
+/eaiou/
 
 Consonants:
-ʐkdstlŋgvrmbθɸ
+/ʐkdstlŋngvrmbθ/
+
 
 Phonological constraints:
-(C)(r)V(C)(C)(V)
+(C)(C)V(C)(C)(V)
 
 hello - roʐu
 goodbye - daga
@@ -18,10 +19,7 @@ We - du
 y'all - di
 they - de
 
-the - e
-a - aŋ
 and - kro
-to - vol
 
 future - ŋuri
 past - goru
