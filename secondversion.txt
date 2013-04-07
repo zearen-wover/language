@@ -1,0 +1,36 @@
+// Vowels:
+/ɛäiou/
+
+// Consonants:
+/ʐkdstlŋngwvrmbθhzfj/
+
+
+// Phonological constraints:
+(C)(C)V(C)(C)
+
+
+
+// Personal Pronouns:
+I - gu		we - ku
+you - ge	y'all - ke
+he/she/it - ga	they - ka
+
+// Tense/time:
+past - mu
+present - me
+future - ma
+
+// VERBS
+
+to be - meda
+to do - θure
+to make - kuwal
+to sleep - somi
+
+// NOUNS
+
+
+// GREETINGS
+
+hello - eja
+goodbye - amakse
