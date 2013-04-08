@@ -1,29 +1,37 @@
-// Vowels:
+// PHONOLOGY
+
+/ Vowels:
+
 /ɛäiou/
+[eaiou]
 
-// Consonants:
+/ Consonants:
+
 /ʐkdstlŋngwvrmbθhzfj/
+[ZkdstlNngwvrmb+hz
 
-
-// Phonological constraints:
+/ Phonological constraints:
 (C)(C)V(C)(C)
 
 
+// SUFFIXES
 
-// Personal Pronouns:
+/ Personal Pronouns:
 I - gu		we - ku
 you - ge	y'all - ke
 he/she/it - ga	they - ka
 
-// Tense/time:
+/ Tense/time:
 past - mu
-present - me
 future - ma
+
+/ Other suffixes:
+plurality - adC
 
 // VERBS
 
 to be - meda
-to do - θure
+to do - +ure
 to make - kuwal
 to sleep - somi
 
