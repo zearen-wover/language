@@ -2,13 +2,13 @@
 
 / Vowels:
 
-/ɛäiou/
-[eaiou]
+/iɛäouɪ/
+[ieaouy]
 
 / Consonants:
 
 /ʐkdstlŋngwvrmbθhzfj/
-[ZkdstlNngwvrmb+hz
+[ZkdstlNngwvrmbThzfj]
 
 / Phonological constraints:
 (C)(C)V(C)(C)
@@ -25,18 +25,24 @@ he/she/it - ga	they - ka
 past - mu
 future - ma
 
+/ Posession:
+mine - uZ	ours - uT
+yours - eZ	y'all's - eT
+his - aZ	theirs - aT
+
 / Other suffixes:
 plurality - ad
 
 // VERBS
 
 to be - meda
-to do - +ure
+to do - Ture
 to make - kuwal
 to sleep - somi
 
 // NOUNS
 
+pen - belusk
 
 // GREETINGS
 
