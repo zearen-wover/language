@@ -7,7 +7,7 @@
 
 / Consonants:
 
-/ʐkdstlŋngwvrmbθhzfjʃ tʃ/
+/ʒkdstlŋngwvrmbθhzfjʃ tʃ/
 [ZkdstlNngwvrmbThzfjx c]
 
 / Phonological constraints:
@@ -17,18 +17,19 @@
 // SUFFIXES
 
 / Personal Pronouns:
-I - gu		we - ku
-you - ge	y'all - ke
-he/she/it - ga	they - ka
+I - gu		we - go
+you - ge	y'all - gi
+he/she/it - ga	they - gy
 
 / Tense/time:
 past - mu
+present - me (if no tense suffix is used, present can be assumed)
 future - ma
 
 / Posession:
-mine - uZ	ours - uT
-yours - eZ	y'all's - eT
-his - aZ	theirs - aT
+mine - uθ	ours - oθ
+yours - eθ	y'all's - iθ
+his - aθ	theirs - yθ
 
 / Other suffixes:
 plurality - ad
@@ -36,13 +37,39 @@ plurality - ad
 // VERBS
 
 to be - meda
-to do - ture
-to make - kuwal
-to sleep - somi
+to do - drune
+to make - joŋ
+to use - gras
+to sleep - sogxa
+to wake - elglim
+to want - oskinat
+to speak - vuln
 
 // NOUNS
 
+/ Geography
+north - norg
+south - surd
+east - ialn
+west - wuld
+
+/ Objects
 pen - belusk
+
+// ADJECTIVES
+
+/ Articles
+the - ʒa
+
+/ Colors
+black - duryn
+white - syθijyx
+
+/ θime
+early - gwi
+late - gwu
+old - xad
+young - xyd
 
 // GREETINGS
 
